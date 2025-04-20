@@ -1,6 +1,12 @@
 # Environment
-/venv
+venv/
 .env
 
 # Python
-*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.idea/
+.vscode/
