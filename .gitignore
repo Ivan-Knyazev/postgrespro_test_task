@@ -1,0 +1,6 @@
+# Environment
+/venv
+.env
+
+# Python
+*.pyc
